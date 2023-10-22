@@ -24,7 +24,7 @@ httpcore==0.17.3
 httptools==0.6.0
 httpx==0.24.1
 idna==3.4
-importlib-metadata==6.8.0
+importlib-metadata==6.7.0
 importlib-resources==6.1.0
 ipykernel==6.25.2
 ipython==8.12.2
